@@ -36,15 +36,9 @@
 ![Asyncio](https://img.shields.io/badge/-Asyncio-3776AB?logo=python&logoColor=white)
 ![Aiogram](https://img.shields.io/badge/-Aiogram-2CA5E0?logo=telegram&logoColor=white)  
 
-## 📊 **Моя активность на GitHub**  
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m1dden&show_icons=true&theme=dark)](https://github.com/m1dden)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1dden&layout=compact&theme=dark)](https://github.com/m1dden)  
-
 ## 📫 **Как связаться**  
 - Telegram: [@m1dden](https://t.me/m1dden)  
 - Почта: **novaev2@yandex.ru**    
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=m1dden.m1dden)  
 
-*"Код — это не просто инструкции, а искусство логики."*  
